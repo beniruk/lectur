@@ -1,0 +1,47 @@
+header {
+  background-image: url("milkywamy.jpg"); opacity:100%;
+  background-color: brown;
+  padding-bottom: 5px;
+}
+a{
+  text-decoration:none;
+}
+nav{
+  padding-left:50px;
+  padding-top:50px;
+}
+
+#beniruk,#software,#github,#youtube,#contact{
+  font-family: 'Calistoga', cursive;
+  font-family: 'Pacifico', cursive;
+  font-size:25px;
+  color:white;
+  margin-right:20px;
+  color:teal;
+  opacity: 100%
+}
+#first{
+  letter-spacing: 30px;
+  font-size:50px;
+  padding-left: 400px;
+  padding-top: 140px;
+  color:white;
+
+}
+#yout{
+  font-size: 25px;
+  color:white;
+}
+.contactf{
+  padding-left:200px;
+  border-radius: 45px;
+  border:none;
+}
+
+input,select,button{
+  width:50%;
+  margin: 8px 0px;
+  padding:12px 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
