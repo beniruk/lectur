@@ -1,6 +1,5 @@
 @media print{ .screen-only{ display: none;} }
-@media (min-widt:500px;){ body {background-color: lightgrey;} }
-@media (max-width:499px) { body { background-color: darkmagenta;}}
+
 
 }
 header {
