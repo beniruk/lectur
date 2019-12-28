@@ -1,6 +1,10 @@
+header:active{background-color: lightblue;}
+@media print{ .screen-only { display: hidden; } }
+@media (min-width:500px;){ body { background-color: black; } }
+@media (max-width:499px) { body { background-color: darkmagenta;}}
 header {
   background-image: url("milkywamy.jpg"); opacity:100%;
-  background-color: teal;
+  background-color: brown;
   padding-bottom: 5px;
 }
 a{
